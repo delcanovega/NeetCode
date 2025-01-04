@@ -1,0 +1,52 @@
+# NeetCode 150
+
+## Roadmap
+| Category | Progress |
+|:---------|:--------:|
+| Arrays & Hashing | <picture><img src="https://img.shields.io/badge/9%20/%209-Solved-ffffff?style=flat&color=1f883d"></picture> |
+| Two Pointers | <picture><img src="https://img.shields.io/badge/0%20/%205-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Stack | <picture><img src="https://img.shields.io/badge/1%20/%207-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Binary Search | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
+| Sliding Window | ![0 / 6](https://img.shields.io/badge/0%20/%206-Solved-ffffff?style=flat&color=ffffff) |
+| Linked List | ![0 / 11](https://img.shields.io/badge/0%20/%2011-Solved-ffffff?style=flat&color=ffffff) |
+| Trees | ![0 / 15](https://img.shields.io/badge/0%20/%2015-Solved-ffffff?style=flat&color=ffffff) |
+| Tries | ![0 / 3](https://img.shields.io/badge/0%20/%203-Solved-ffffff?style=flat&color=ffffff) |
+| Backtracking | ![0 / 9](https://img.shields.io/badge/0%20/%209-Solved-ffffff?style=flat&color=ffffff) |
+| Heap / Priority Queue | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
+| Graphs | ![0 / 13](https://img.shields.io/badge/0%20/%2013-Solved-ffffff?style=flat&color=ffffff) |
+| 1-D DP | ![0 / 12](https://img.shields.io/badge/0%20/%2012-Solved-ffffff?style=flat&color=ffffff) |
+| Intervals | ![0 / 6](https://img.shields.io/badge/0%20/%206-Solved-ffffff?style=flat&color=ffffff) |
+| Greedy | ![0 / 8](https://img.shields.io/badge/0%20/%208-Solved-ffffff?style=flat&color=ffffff) |
+| Advanced Graphs | ![0 / 6](https://img.shields.io/badge/0%20/%206-Solved-ffffff?style=flat&color=ffffff) |
+| 2-D DP | ![0 / 11](https://img.shields.io/badge/0%20/%2011-Solved-ffffff?style=flat&color=ffffff) |
+| Bit Manipulation | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
+| Math & Geometry | ![0 / 8](https://img.shields.io/badge/0%20/%208-Solved-ffffff?style=flat&color=ffffff) |
+
+## Problems
+
+### Arrays & Hashing
+<details>
+  <summary>Expand</summary>
+  
+  | Problem | Solution |
+  |:--------|:--------:|
+  | [Contains Duplicate](https://neetcode.io/problems/duplicate-integer) | [C++](https://github.com/delcanovega/NeetCode/blob/main/01_Arrays_and_Hashing/01_Contains_Duplicate/main.cpp) |
+  | [Valid Anagram](https://neetcode.io/problems/is-anagram) | [C++](https://github.com/delcanovega/NeetCode/blob/main/01_Arrays_and_Hashing/02_Anagram/main.cpp) |
+  | [Two Sum](https://neetcode.io/problems/two-integer-sum) | [C++](https://github.com/delcanovega/NeetCode/blob/main/01_Arrays_and_Hashing/03_Two_Sum/main.cpp) |
+  | [Group Anagrams](https://neetcode.io/problems/anagram-groups) | [C++](https://github.com/delcanovega/NeetCode/blob/main/01_Arrays_and_Hashing/04_Group_Anagrams/main.cpp) |
+  | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list) | [C++](https://github.com/delcanovega/NeetCode/blob/main/01_Arrays_and_Hashing/05_Top_K_Frequent_Elements/main.cpp) |
+  | [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode) | [C++](https://github.com/delcanovega/NeetCode/blob/main/01_Arrays_and_Hashing/06_Encode_and_Decode_Strings/main.cpp) |
+  | [Products of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self) | [C++](https://github.com/delcanovega/NeetCode/blob/main/01_Arrays_and_Hashing/07_Products_of_Array_Except_Self/main.cpp) |
+  | [Valid Sudoku](https://neetcode.io/problems/valid-sudoku) | [C++](https://github.com/delcanovega/NeetCode/blob/main/01_Arrays_and_Hashing/08_Valid_Sudoku/main.cpp) |
+  | [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence) | [C++](https://github.com/delcanovega/NeetCode/blob/main/01_Arrays_and_Hashing/09_Longest_Consecutive_Sequence/main.cpp) |
+</details>
+
+
+### Stack
+<details>
+  <summary>Expand</summary>
+  
+  | Problem | Solution |
+  |:--------|:--------:|
+  | [Valid Parentheses](https://neetcode.io/problems/validate-parentheses) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/01_Valid_Parentheses/main.cpp) |
+</details>
