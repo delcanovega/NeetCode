@@ -5,7 +5,7 @@
 |:---------|:--------:|
 | Arrays & Hashing | <picture><img src="https://img.shields.io/badge/9%20/%209-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Two Pointers | <picture><img src="https://img.shields.io/badge/0%20/%205-Solved-ffffff?style=flat&color=ffffff"></picture> |
-| Stack | <picture><img src="https://img.shields.io/badge/1%20/%207-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Stack | <picture><img src="https://img.shields.io/badge/4%20/%207-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Binary Search | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
 | Sliding Window | ![0 / 6](https://img.shields.io/badge/0%20/%206-Solved-ffffff?style=flat&color=ffffff) |
 | Linked List | ![0 / 11](https://img.shields.io/badge/0%20/%2011-Solved-ffffff?style=flat&color=ffffff) |
@@ -49,4 +49,7 @@
   | Problem | Solution |
   |:--------|:--------:|
   | [Valid Parentheses](https://neetcode.io/problems/validate-parentheses) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/01_Valid_Parentheses/main.cpp) |
+  | [Minimum Stack](https://neetcode.io/problems/minimum-stack) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/02_Minimum_Stack/main.cpp) |
+  | [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/03_Evaluate_Reverse_Polish_Notation/main.cpp) |
+  | [Generate Parentheses](https://neetcode.io/problems/generate-parentheses) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/04_Generate_Parentheses/main.cpp) |
 </details>
