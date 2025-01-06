@@ -52,4 +52,5 @@
   | [Minimum Stack](https://neetcode.io/problems/minimum-stack) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/02_Minimum_Stack/main.cpp) |
   | [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/03_Evaluate_Reverse_Polish_Notation/main.cpp) |
   | [Generate Parentheses](https://neetcode.io/problems/generate-parentheses) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/04_Generate_Parentheses/main.cpp) |
+  | [Daily Temperatures](https://neetcode.io/problems/daily-temperatures) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/05_Daily_Temperatures/main.cpp) |
 </details>
