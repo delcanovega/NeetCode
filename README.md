@@ -5,7 +5,7 @@
 |:---------|:--------:|
 | Arrays & Hashing | <picture><img src="https://img.shields.io/badge/9%20/%209-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Two Pointers | <picture><img src="https://img.shields.io/badge/0%20/%205-Solved-ffffff?style=flat&color=ffffff"></picture> |
-| Stack | <picture><img src="https://img.shields.io/badge/4%20/%207-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Stack | <picture><img src="https://img.shields.io/badge/6%20/%207-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Binary Search | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
 | Sliding Window | ![0 / 6](https://img.shields.io/badge/0%20/%206-Solved-ffffff?style=flat&color=ffffff) |
 | Linked List | ![0 / 11](https://img.shields.io/badge/0%20/%2011-Solved-ffffff?style=flat&color=ffffff) |
@@ -53,4 +53,5 @@
   | [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/03_Evaluate_Reverse_Polish_Notation/main.cpp) |
   | [Generate Parentheses](https://neetcode.io/problems/generate-parentheses) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/04_Generate_Parentheses/main.cpp) |
   | [Daily Temperatures](https://neetcode.io/problems/daily-temperatures) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/05_Daily_Temperatures/main.cpp) |
+  | [Car Fleet](https://neetcode.io/problems/car-fleet) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/06_Car_Fleet/main.cpp) |
 </details>
