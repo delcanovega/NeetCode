@@ -4,7 +4,7 @@
 | Category | Progress |
 |:---------|:--------:|
 | Arrays & Hashing | <picture><img src="https://img.shields.io/badge/9%20/%209-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Two Pointers | <picture><img src="https://img.shields.io/badge/0%20/%205-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Two Pointers | <picture><img src="https://img.shields.io/badge/1%20/%205-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Stack | <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Binary Search | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
 | Sliding Window | ![0 / 6](https://img.shields.io/badge/0%20/%206-Solved-ffffff?style=flat&color=ffffff) |
@@ -41,7 +41,6 @@
   | [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence) | [C++](https://github.com/delcanovega/NeetCode/blob/main/01_Arrays_and_Hashing/09_Longest_Consecutive_Sequence/main.cpp) |
 </details>
 
-
 ### Stack
 <details>
   <summary>Expand</summary>
@@ -55,4 +54,13 @@
   | [Daily Temperatures](https://neetcode.io/problems/daily-temperatures) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/05_Daily_Temperatures/main.cpp) |
   | [Car Fleet](https://neetcode.io/problems/car-fleet) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/06_Car_Fleet/main.cpp) |
   | [Largest Rectangle in Histogram](https://neetcode.io/problems/largest-rectangle-in-histogram) | [C++](https://github.com/delcanovega/NeetCode/blob/main/02_Stack/07_Largest_Rectangle_in_Histogram/main.cpp) |
+</details>
+
+### Two Pointers
+<details>
+  <summary>Expand</summary>
+  
+  | Problem | Solution |
+  |:--------|:--------:|
+  | [Valid Palindrome](https://neetcode.io/problems/is-palindrome) | [C++](https://github.com/delcanovega/NeetCode/blob/main/03_Two_Pointers/01_Valid_Palindrome/main.cpp) |
 </details>
