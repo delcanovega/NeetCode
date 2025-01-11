@@ -4,7 +4,7 @@
 | Category | Progress |
 |:---------|:--------:|
 | Arrays & Hashing | <picture><img src="https://img.shields.io/badge/9%20/%209-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Two Pointers | <picture><img src="https://img.shields.io/badge/2%20/%205-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Two Pointers | <picture><img src="https://img.shields.io/badge/3%20/%205-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Stack | <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Binary Search | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
 | Sliding Window | ![0 / 6](https://img.shields.io/badge/0%20/%206-Solved-ffffff?style=flat&color=ffffff) |
@@ -64,4 +64,5 @@
   |:--------|:--------:|
   | [Valid Palindrome](https://neetcode.io/problems/is-palindrome) | [C++](https://github.com/delcanovega/NeetCode/blob/main/03_Two_Pointers/01_Valid_Palindrome/main.cpp) |
   | [Two Integer Sum II](https://neetcode.io/problems/two-integer-sum-ii) | [C++](https://github.com/delcanovega/NeetCode/blob/main/03_Two_Pointers/02_Two_Integer_Sum_II/main.cpp) |
+  | [3Sum](https://neetcode.io/problems/three-integer-sum) | [C++](https://github.com/delcanovega/NeetCode/blob/main/03_Two_Pointers/03_3Sum/main.cpp) |
 </details>
