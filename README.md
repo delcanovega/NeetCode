@@ -65,4 +65,5 @@
   | [Valid Palindrome](https://neetcode.io/problems/is-palindrome) | [C++](https://github.com/delcanovega/NeetCode/blob/main/03_Two_Pointers/01_Valid_Palindrome/main.cpp) |
   | [Two Integer Sum II](https://neetcode.io/problems/two-integer-sum-ii) | [C++](https://github.com/delcanovega/NeetCode/blob/main/03_Two_Pointers/02_Two_Integer_Sum_II/main.cpp) |
   | [3Sum](https://neetcode.io/problems/three-integer-sum) | [C++](https://github.com/delcanovega/NeetCode/blob/main/03_Two_Pointers/03_3Sum/main.cpp) |
+  | [Container With Most Water](https://neetcode.io/problems/max-water-container) | [C++](https://github.com/delcanovega/NeetCode/blob/main/03_Two_Pointers/04_Container_with_Most_Water/main.cpp) |
 </details>
