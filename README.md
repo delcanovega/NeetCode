@@ -6,7 +6,7 @@
 | Arrays & Hashing | <picture><img src="https://img.shields.io/badge/9%20/%209-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Two Pointers | <picture><img src="https://img.shields.io/badge/5%20/%205-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Stack | <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Binary Search | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
+| Binary Search |  <picture><img src="https://img.shields.io/badge/1%20/%207-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Sliding Window | ![0 / 6](https://img.shields.io/badge/0%20/%206-Solved-ffffff?style=flat&color=ffffff) |
 | Linked List | ![0 / 11](https://img.shields.io/badge/0%20/%2011-Solved-ffffff?style=flat&color=ffffff) |
 | Trees | ![0 / 15](https://img.shields.io/badge/0%20/%2015-Solved-ffffff?style=flat&color=ffffff) |
@@ -67,4 +67,13 @@
   | [3Sum](https://neetcode.io/problems/three-integer-sum) | [C++](https://github.com/delcanovega/NeetCode/blob/main/03_Two_Pointers/03_3Sum/main.cpp) |
   | [Container With Most Water](https://neetcode.io/problems/max-water-container) | [C++](https://github.com/delcanovega/NeetCode/blob/main/03_Two_Pointers/04_Container_with_Most_Water/main.cpp) |
   | [Trapping Rain Water](https://neetcode.io/problems/trapping-rain-water) | [C++](https://github.com/delcanovega/NeetCode/blob/main/03_Two_Pointers/05_Trapping_Rain_Water/main.cpp) |
+</details>
+
+### Binary Search
+<details>
+  <summary>Expand</summary>
+  
+  | Problem | Solution |
+  |:--------|:--------:|
+  | [Binary Search](https://neetcode.io/problems/binary-search) | [C++](https://github.com/delcanovega/NeetCode/blob/main/04_Binary_Search/01_Binary_Search/main.cpp) |
 </details>
