@@ -6,7 +6,7 @@
 | Arrays & Hashing | <picture><img src="https://img.shields.io/badge/9%20/%209-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Two Pointers | <picture><img src="https://img.shields.io/badge/5%20/%205-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Stack | <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Binary Search |  <picture><img src="https://img.shields.io/badge/2%20/%207-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Binary Search |  <picture><img src="https://img.shields.io/badge/3%20/%207-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Sliding Window | ![0 / 6](https://img.shields.io/badge/0%20/%206-Solved-ffffff?style=flat&color=ffffff) |
 | Linked List | ![0 / 11](https://img.shields.io/badge/0%20/%2011-Solved-ffffff?style=flat&color=ffffff) |
 | Trees | ![0 / 15](https://img.shields.io/badge/0%20/%2015-Solved-ffffff?style=flat&color=ffffff) |
@@ -77,4 +77,5 @@
   |:--------|:--------:|
   | [Binary Search](https://neetcode.io/problems/binary-search) | [C++](https://github.com/delcanovega/NeetCode/blob/main/04_Binary_Search/01_Binary_Search/main.cpp) |
   | [Search a 2D Matrix](https://neetcode.io/problems/search-2d-matrix) | [C++](https://github.com/delcanovega/NeetCode/blob/main/04_Binary_Search/02_Search_a_2D_Matrix/main.cpp) |
+  | [Koko Eating Bananas](https://neetcode.io/problems/eating-bananas) | [C++](https://github.com/delcanovega/NeetCode/blob/main/04_Binary_Search/03_Koko_Eating_Bananas/main.cpp) |
 </details>
