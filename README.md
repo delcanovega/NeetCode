@@ -6,7 +6,7 @@
 | Arrays & Hashing | <picture><img src="https://img.shields.io/badge/9%20/%209-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Two Pointers | <picture><img src="https://img.shields.io/badge/5%20/%205-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Stack | <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Binary Search |  <picture><img src="https://img.shields.io/badge/6%20/%207-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Binary Search |  <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Sliding Window | ![0 / 6](https://img.shields.io/badge/0%20/%206-Solved-ffffff?style=flat&color=ffffff) |
 | Linked List | ![0 / 11](https://img.shields.io/badge/0%20/%2011-Solved-ffffff?style=flat&color=ffffff) |
 | Trees | ![0 / 15](https://img.shields.io/badge/0%20/%2015-Solved-ffffff?style=flat&color=ffffff) |
@@ -81,4 +81,5 @@
   | [Find Minimum in Rotated Sorted Array](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array) | [C++](https://github.com/delcanovega/NeetCode/blob/main/04_Binary_Search/04_Find_Minimum_in_Rotated_Sorted_Array/main.cpp) |
   | [Search in Rotated Sorted Array](https://neetcode.io/problems/find-target-in-rotated-sorted-array) | [C++](https://github.com/delcanovega/NeetCode/blob/main/04_Binary_Search/05_Search_in_Rotated_Sorted_Array/main.cpp) |
   | [Time Based Key-Value Store](https://neetcode.io/problems/time-based-key-value-store) | [C++](https://github.com/delcanovega/NeetCode/blob/main/04_Binary_Search/06_Time_Based_Key-Value_Store/main.cpp) |
+  | [Median of Two Sorted Arrays](https://neetcode.io/problems/median-of-two-sorted-arrays) | [C++](https://github.com/delcanovega/NeetCode/blob/main/04_Binary_Search/07_Median_of_Two_Sorted_Arrays/main.cpp) |
 </details>
