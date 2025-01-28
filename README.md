@@ -7,7 +7,7 @@
 | Two Pointers | <picture><img src="https://img.shields.io/badge/5%20/%205-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Stack | <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Binary Search |  <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Sliding Window |  <picture><img src="https://img.shields.io/badge/2%20/%206-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Sliding Window |  <picture><img src="https://img.shields.io/badge/3%20/%206-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Linked List | ![0 / 11](https://img.shields.io/badge/0%20/%2011-Solved-ffffff?style=flat&color=ffffff) |
 | Trees | ![0 / 15](https://img.shields.io/badge/0%20/%2015-Solved-ffffff?style=flat&color=ffffff) |
 | Tries | ![0 / 3](https://img.shields.io/badge/0%20/%203-Solved-ffffff?style=flat&color=ffffff) |
@@ -92,4 +92,5 @@
   |:--------|:--------:|
   | [Best Time to Buy and Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto) | [C++](https://github.com/delcanovega/NeetCode/blob/main/05_Sliding_Window/01_Best_Time_to_Buy_and_Sell_Stock/main.cpp) |
   | [Longest Substring Without Repeating Characters](https://neetcode.io/problems/longest-substring-without-duplicates) | [C++](https://github.com/delcanovega/NeetCode/blob/main/05_Sliding_Window/02_Longest_Substring_Without_Repeating_Characters/main.cpp) |
+  | [Longest Repeating Character Replacement](https://neetcode.io/problems/longest-repeating-substring-with-replacement) | [C++](https://github.com/delcanovega/NeetCode/blob/main/05_Sliding_Window/03_Longest_Repeating_Character_Replacement/main.cpp) |
 </details>
