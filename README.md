@@ -7,7 +7,7 @@
 | Two Pointers | <picture><img src="https://img.shields.io/badge/5%20/%205-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Stack | <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Binary Search |  <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Sliding Window |  <picture><img src="https://img.shields.io/badge/5%20/%206-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Sliding Window |  <picture><img src="https://img.shields.io/badge/6%20/%206-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Linked List | ![0 / 11](https://img.shields.io/badge/0%20/%2011-Solved-ffffff?style=flat&color=ffffff) |
 | Trees | ![0 / 15](https://img.shields.io/badge/0%20/%2015-Solved-ffffff?style=flat&color=ffffff) |
 | Tries | ![0 / 3](https://img.shields.io/badge/0%20/%203-Solved-ffffff?style=flat&color=ffffff) |
@@ -95,4 +95,5 @@
   | [Longest Repeating Character Replacement](https://neetcode.io/problems/longest-repeating-substring-with-replacement) | [C++](https://github.com/delcanovega/NeetCode/blob/main/05_Sliding_Window/03_Longest_Repeating_Character_Replacement/main.cpp) |
   | [Permutation in String](https://neetcode.io/problems/permutation-string) | [C++](https://github.com/delcanovega/NeetCode/blob/main/05_Sliding_Window/04_Permutation_in_String/main.cpp) |
   | [Minimum Window Substring](https://neetcode.io/problems/minimum-window-with-characters) | [C++](https://github.com/delcanovega/NeetCode/blob/main/05_Sliding_Window/05_Minimum_Window_Substring/main.cpp) |
+  | [Sliding Window Maximum](https://neetcode.io/problems/sliding-window-maximum) | [C++](https://github.com/delcanovega/NeetCode/blob/main/05_Sliding_Window/06_Sliding_Window_Maximum/main.cpp) |
 </details>
