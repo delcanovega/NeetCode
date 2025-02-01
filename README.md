@@ -8,7 +8,7 @@
 | Stack | <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Binary Search |  <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Sliding Window |  <picture><img src="https://img.shields.io/badge/6%20/%206-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Linked List | ![0 / 11](https://img.shields.io/badge/0%20/%2011-Solved-ffffff?style=flat&color=ffffff) |
+| Linked List | <picture><img src="https://img.shields.io/badge/1%20/%2011-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Trees | ![0 / 15](https://img.shields.io/badge/0%20/%2015-Solved-ffffff?style=flat&color=ffffff) |
 | Tries | ![0 / 3](https://img.shields.io/badge/0%20/%203-Solved-ffffff?style=flat&color=ffffff) |
 | Backtracking | ![0 / 9](https://img.shields.io/badge/0%20/%209-Solved-ffffff?style=flat&color=ffffff) |
@@ -96,4 +96,13 @@
   | [Permutation in String](https://neetcode.io/problems/permutation-string) | [C++](https://github.com/delcanovega/NeetCode/blob/main/05_Sliding_Window/04_Permutation_in_String/main.cpp) |
   | [Minimum Window Substring](https://neetcode.io/problems/minimum-window-with-characters) | [C++](https://github.com/delcanovega/NeetCode/blob/main/05_Sliding_Window/05_Minimum_Window_Substring/main.cpp) |
   | [Sliding Window Maximum](https://neetcode.io/problems/sliding-window-maximum) | [C++](https://github.com/delcanovega/NeetCode/blob/main/05_Sliding_Window/06_Sliding_Window_Maximum/main.cpp) |
+</details>
+
+### Linked List
+<details>
+  <summary>Expand</summary>
+  
+  | Problem | Solution |
+  |:--------|:--------:|
+  | [Reverse Linked List](https://neetcode.io/problems/reverse-a-linked-list) | [C++](https://github.com/delcanovega/NeetCode/blob/main/06_Linked_List/01_Reverse_Linked_List/main.cpp) |
 </details>
