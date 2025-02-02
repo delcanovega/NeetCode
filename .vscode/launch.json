@@ -3,15 +3,11 @@
     "configurations": [
       {
         "name": "C++ Debug",
-        "type": "cppdbg",
+        "type": "lldb",
         "request": "launch",
         "program": "${workspaceFolder}/program.out",
         "args": [],
-        "stopAtEntry": false,
         "cwd": "${workspaceFolder}",
-        "environment": [],
-        "externalConsole": false,
-        "MIMode": "lldb"
       }
     ]
   }
