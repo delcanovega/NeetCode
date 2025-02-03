@@ -8,7 +8,7 @@
 | Stack | <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Binary Search |  <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Sliding Window |  <picture><img src="https://img.shields.io/badge/6%20/%206-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Linked List | <picture><img src="https://img.shields.io/badge/4%20/%2011-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Linked List | <picture><img src="https://img.shields.io/badge/5%20/%2011-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Trees | ![0 / 15](https://img.shields.io/badge/0%20/%2015-Solved-ffffff?style=flat&color=ffffff) |
 | Tries | ![0 / 3](https://img.shields.io/badge/0%20/%203-Solved-ffffff?style=flat&color=ffffff) |
 | Backtracking | ![0 / 9](https://img.shields.io/badge/0%20/%209-Solved-ffffff?style=flat&color=ffffff) |
@@ -108,4 +108,5 @@
   | [Merge Two Sorted Linked Lists](https://neetcode.io/problems/merge-two-sorted-linked-lists) | [C++](https://github.com/delcanovega/NeetCode/blob/main/06_Linked_List/02_Merge_Two_Sorted_Linked_Lists/main.cpp) |
   | [Linked List Cycle Detection](https://neetcode.io/problems/linked-list-cycle-detection) | [C++](https://github.com/delcanovega/NeetCode/blob/main/06_Linked_List/03_Linked_List_Cycle_Detection/main.cpp) |
   | [Reorder Linked List](https://neetcode.io/problems/reorder-linked-list) | [C++](https://github.com/delcanovega/NeetCode/blob/main/06_Linked_List/04_Reorder_Linked_List/main.cpp) |
+  | [Remove Node From End of Linked List](https://neetcode.io/problems/remove-node-from-end-of-linked-list) | [C++](https://github.com/delcanovega/NeetCode/blob/main/06_Linked_List/05_Remove_Node_From_End_of_Linked_List/main.cpp) |
 </details>
