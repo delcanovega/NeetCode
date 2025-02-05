@@ -8,7 +8,7 @@
 | Stack | <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Binary Search |  <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Sliding Window |  <picture><img src="https://img.shields.io/badge/6%20/%206-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Linked List | <picture><img src="https://img.shields.io/badge/7%20/%2011-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Linked List | <picture><img src="https://img.shields.io/badge/8%20/%2011-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Trees | ![0 / 15](https://img.shields.io/badge/0%20/%2015-Solved-ffffff?style=flat&color=ffffff) |
 | Tries | ![0 / 3](https://img.shields.io/badge/0%20/%203-Solved-ffffff?style=flat&color=ffffff) |
 | Backtracking | ![0 / 9](https://img.shields.io/badge/0%20/%209-Solved-ffffff?style=flat&color=ffffff) |
@@ -111,4 +111,5 @@
   | [Remove Node From End of Linked List](https://neetcode.io/problems/remove-node-from-end-of-linked-list) | [C++](https://github.com/delcanovega/NeetCode/blob/main/06_Linked_List/05_Remove_Node_From_End_of_Linked_List/main.cpp) |
   | [Copy Linked List with Random Pointer](https://neetcode.io/problems/copy-linked-list-with-random-pointer) | [C++](https://github.com/delcanovega/NeetCode/blob/main/06_Linked_List/06_Copy_Linked_List_with_Random_Pointer/main.cpp) |
   | [Add Two Numbers](https://neetcode.io/problems/add-two-numbers) | [C++](https://github.com/delcanovega/NeetCode/blob/main/06_Linked_List/07_Add_Two_Numbers/main.cpp) |
+  | [Find the Duplicate Number](https://neetcode.io/problems/find-duplicate-integer) | [C++](https://github.com/delcanovega/NeetCode/blob/main/06_Linked_List/08_Find_the_Duplicate_Number/main.cpp) |
 </details>
