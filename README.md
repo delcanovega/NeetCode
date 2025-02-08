@@ -8,7 +8,7 @@
 | Stack | <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Binary Search |  <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Sliding Window |  <picture><img src="https://img.shields.io/badge/6%20/%206-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Linked List | <picture><img src="https://img.shields.io/badge/10%20/%2011-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Linked List | <picture><img src="https://img.shields.io/badge/11%20/%2011-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Trees | ![0 / 15](https://img.shields.io/badge/0%20/%2015-Solved-ffffff?style=flat&color=ffffff) |
 | Tries | ![0 / 3](https://img.shields.io/badge/0%20/%203-Solved-ffffff?style=flat&color=ffffff) |
 | Backtracking | ![0 / 9](https://img.shields.io/badge/0%20/%209-Solved-ffffff?style=flat&color=ffffff) |
@@ -114,4 +114,5 @@
   | [Find the Duplicate Number](https://neetcode.io/problems/find-duplicate-integer) | [C++](https://github.com/delcanovega/NeetCode/blob/main/06_Linked_List/08_Find_the_Duplicate_Number/main.cpp) |
   | [LRU Cache](https://neetcode.io/problems/lru-cache) | [C++](https://github.com/delcanovega/NeetCode/blob/main/06_Linked_List/09_LRU_Cache/main.cpp) |
   | [Merge K Sorted Linked Lists](https://neetcode.io/problems/merge-k-sorted-linked-lists) | [C++](https://github.com/delcanovega/NeetCode/blob/main/06_Linked_List/10_Merge_K_Sorted_Linked_Lists/main.cpp) |
+  | [Reverse Nodes in K-Group](https://neetcode.io/problems/reverse-nodes-in-k-group) | [C++](https://github.com/delcanovega/NeetCode/blob/main/06_Linked_List/11_Reverse_Nodes_in_K-Group/main.cpp) |
 </details>
