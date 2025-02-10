@@ -9,7 +9,7 @@
 | Binary Search |  <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Sliding Window |  <picture><img src="https://img.shields.io/badge/6%20/%206-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Linked List | <picture><img src="https://img.shields.io/badge/11%20/%2011-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Trees | <picture><img src="https://img.shields.io/badge/4%20/%2015-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Trees | <picture><img src="https://img.shields.io/badge/5%20/%2015-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Tries | ![0 / 3](https://img.shields.io/badge/0%20/%203-Solved-ffffff?style=flat&color=ffffff) |
 | Backtracking | ![0 / 9](https://img.shields.io/badge/0%20/%209-Solved-ffffff?style=flat&color=ffffff) |
 | Heap / Priority Queue | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
@@ -127,4 +127,5 @@
   | [Maximum Depth of Binary Tree](https://neetcode.io/problems/depth-of-binary-tree) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/02_Maximum_Depth_of_Binary_Tree/main.cpp) |
   | [Diameter of Binary Tree](https://neetcode.io/problems/binary-tree-diameter) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/03_Diameter_of_Binary_Tree/main.cpp) |
   | [Balanced Binary Tree](https://neetcode.io/problems/balanced-binary-tree) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/04_Balanced_Binary_Tree/main.cpp) |
+  | [Same Binary Tree](https://neetcode.io/problems/same-binary-tree) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/05_Same_Binary_Tree/main.cpp) |
 </details>
