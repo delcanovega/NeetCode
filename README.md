@@ -9,7 +9,7 @@
 | Binary Search |  <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Sliding Window |  <picture><img src="https://img.shields.io/badge/6%20/%206-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Linked List | <picture><img src="https://img.shields.io/badge/11%20/%2011-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Trees | <picture><img src="https://img.shields.io/badge/7%20/%2015-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Trees | <picture><img src="https://img.shields.io/badge/8%20/%2015-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Tries | ![0 / 3](https://img.shields.io/badge/0%20/%203-Solved-ffffff?style=flat&color=ffffff) |
 | Backtracking | ![0 / 9](https://img.shields.io/badge/0%20/%209-Solved-ffffff?style=flat&color=ffffff) |
 | Heap / Priority Queue | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
@@ -130,4 +130,5 @@
   | [Same Binary Tree](https://neetcode.io/problems/same-binary-tree) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/05_Same_Binary_Tree/main.cpp) |
   | [Subtree of Another Tree](https://neetcode.io/problems/subtree-of-a-binary-tree) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/06_Subtree_of_Another_Tree/main.cpp) |
   | [Lowest Common Ancestor in Binary Search Tree](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/07_Lowest_Common_Ancestor_in_Binary_Search_Tree/main.cpp) |
+  | [Binary Tree Level Order Traversal](https://neetcode.io/problems/level-order-traversal-of-binary-tree) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/08_Binary_Tree_Level_Order_Traversal/main.cpp) |
 </details>
