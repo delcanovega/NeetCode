@@ -9,7 +9,7 @@
 | Binary Search |  <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Sliding Window |  <picture><img src="https://img.shields.io/badge/6%20/%206-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Linked List | <picture><img src="https://img.shields.io/badge/11%20/%2011-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Trees | <picture><img src="https://img.shields.io/badge/13%20/%2015-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Trees | <picture><img src="https://img.shields.io/badge/14%20/%2015-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Tries | ![0 / 3](https://img.shields.io/badge/0%20/%203-Solved-ffffff?style=flat&color=ffffff) |
 | Backtracking | ![0 / 9](https://img.shields.io/badge/0%20/%209-Solved-ffffff?style=flat&color=ffffff) |
 | Heap / Priority Queue | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
@@ -136,4 +136,5 @@
   | [Valid Binary Search Tree](https://neetcode.io/problems/valid-binary-search-tree) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/11_Valid_Binary_Search_Tree/main.cpp) |
   | [Kth Smallest Integer in BST](https://neetcode.io/problems/kth-smallest-integer-in-bst) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/12_Kth_Smallest_Integer_in_BST/main.cpp) |
   | [Construct Binary Tree from Preorder and Inorder Traversal](https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/13_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/main.cpp) |
+  | [Binary Tree Maximum Path Sum](https://neetcode.io/problems/binary-tree-maximum-path-sum) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/14_Binary_Tree_Maximum_Path_Sum/main.cpp) |
 </details>
