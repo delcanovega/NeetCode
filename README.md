@@ -10,7 +10,7 @@
 | Sliding Window |  <picture><img src="https://img.shields.io/badge/6%20/%206-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Linked List | <picture><img src="https://img.shields.io/badge/11%20/%2011-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Trees | <picture><img src="https://img.shields.io/badge/15%20/%2015-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Tries | ![0 / 3](https://img.shields.io/badge/0%20/%203-Solved-ffffff?style=flat&color=ffffff) |
+| Tries | <picture><img src="https://img.shields.io/badge/1%20/%203-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Backtracking | ![0 / 9](https://img.shields.io/badge/0%20/%209-Solved-ffffff?style=flat&color=ffffff) |
 | Heap / Priority Queue | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
 | Graphs | ![0 / 13](https://img.shields.io/badge/0%20/%2013-Solved-ffffff?style=flat&color=ffffff) |
@@ -138,4 +138,13 @@
   | [Construct Binary Tree from Preorder and Inorder Traversal](https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/13_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/main.cpp) |
   | [Binary Tree Maximum Path Sum](https://neetcode.io/problems/binary-tree-maximum-path-sum) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/14_Binary_Tree_Maximum_Path_Sum/main.cpp) |
   | [Serialize and Deserialize Binary Tree](https://neetcode.io/problems/serialize-and-deserialize-binary-tree) | [C++](https://github.com/delcanovega/NeetCode/blob/main/07_Trees/15_Serialize_and_Deserialize_Binary_Tree/main.cpp) |
+</details>
+
+### Tries
+<details>
+  <summary>Expand</summary>
+  
+  | Problem | Solution |
+  |:--------|:--------:|
+  | [Implement Trie (Prefix Tree)](https://neetcode.io/problems/implement-prefix-tree) | [C++](https://github.com/delcanovega/NeetCode/blob/main/08_Tries/01_Implement_Trie/main.cpp) |
 </details>
