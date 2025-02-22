@@ -5,7 +5,9 @@ using namespace std;
 
 class PrefixTree {
 public:
-    PrefixTree() {}
+    PrefixTree() {
+        word = false;
+    }
     
     void insert(string word) {
         PrefixTree* node = this;
@@ -33,11 +35,11 @@ public:
     }
 
     PrefixTree* at(char letter) {
-        return children.at(letter);
+        return &children.at(letter);
     }
 
     void insert(char letter) {
-        children[letter] = new PrefixTree();
+        children[letter] = PrefixTree();
     }
 
     void markAsWord() {
@@ -49,7 +51,7 @@ public:
     }
 
 private:
-    unordered_map<char, PrefixTree*> children;
+    unordered_map<char, PrefixTree> children;
     bool word;
 
     PrefixTree* find(string sequence) {
