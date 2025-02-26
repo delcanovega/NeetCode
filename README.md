@@ -11,7 +11,7 @@
 | Linked List | <picture><img src="https://img.shields.io/badge/11%20/%2011-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Trees | <picture><img src="https://img.shields.io/badge/15%20/%2015-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Tries | <picture><img src="https://img.shields.io/badge/3%20/%203-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Backtracking | ![0 / 9](https://img.shields.io/badge/0%20/%209-Solved-ffffff?style=flat&color=ffffff) |
+| Backtracking | <picture><img src="https://img.shields.io/badge/1%20/%209-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Heap / Priority Queue | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
 | Graphs | ![0 / 13](https://img.shields.io/badge/0%20/%2013-Solved-ffffff?style=flat&color=ffffff) |
 | 1-D DP | ![0 / 12](https://img.shields.io/badge/0%20/%2012-Solved-ffffff?style=flat&color=ffffff) |
@@ -149,4 +149,13 @@
   | [Implement Trie (Prefix Tree)](https://neetcode.io/problems/implement-prefix-tree) | [C++](https://github.com/delcanovega/NeetCode/blob/main/08_Tries/01_Implement_Trie/main.cpp) |
   | [Design Add and Search Word Data Structure](https://neetcode.io/problems/design-word-search-data-structure) | [C++](https://github.com/delcanovega/NeetCode/blob/main/08_Tries/02_Design_Add_and_Search_Word_Data_Structuree/main.cpp) |
   | [Word Search II](https://neetcode.io/problems/dsearch-for-word-ii) | [C++](https://github.com/delcanovega/NeetCode/blob/main/08_Tries/03_Word_Search_II/main.cpp) |
+</details>
+
+### Backtracking
+<details>
+  <summary>Expand</summary>
+  
+  | Problem | Solution |
+  |:--------|:--------:|
+  | [Subsets](https://neetcode.io/problems/subsets) | [C++](https://github.com/delcanovega/NeetCode/blob/main/09_Backtracking/01_Subsets/main.cpp) |
 </details>
