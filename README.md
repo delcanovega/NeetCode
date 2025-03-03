@@ -11,7 +11,7 @@
 | Linked List | <picture><img src="https://img.shields.io/badge/11%20/%2011-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Trees | <picture><img src="https://img.shields.io/badge/15%20/%2015-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Tries | <picture><img src="https://img.shields.io/badge/3%20/%203-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Backtracking | <picture><img src="https://img.shields.io/badge/5%20/%209-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Backtracking | <picture><img src="https://img.shields.io/badge/6%20/%209-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Heap / Priority Queue | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
 | Graphs | ![0 / 13](https://img.shields.io/badge/0%20/%2013-Solved-ffffff?style=flat&color=ffffff) |
 | 1-D DP | ![0 / 12](https://img.shields.io/badge/0%20/%2012-Solved-ffffff?style=flat&color=ffffff) |
@@ -162,4 +162,5 @@
   | [Combination Sum II](https://neetcode.io/problems/combination-target-sum-ii) | [C++](https://github.com/delcanovega/NeetCode/blob/main/09_Backtracking/03_Combination_Sum_II/main.cpp) |
   | [Permutations](https://neetcode.io/problems/permutations) | [C++](https://github.com/delcanovega/NeetCode/blob/main/09_Backtracking/04_Permutations/main.cpp) |
   | [Subsets II](https://neetcode.io/problems/subsets-ii) | [C++](https://github.com/delcanovega/NeetCode/blob/main/09_Backtracking/05_Subsets_II/main.cpp) |
+  | [Word Search](https://neetcode.io/problems/search-for-word) | [C++](https://github.com/delcanovega/NeetCode/blob/main/09_Backtracking/06_Word_Search/main.cpp) |
 </details>
