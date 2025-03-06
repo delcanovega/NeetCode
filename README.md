@@ -11,7 +11,7 @@
 | Linked List | <picture><img src="https://img.shields.io/badge/11%20/%2011-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Trees | <picture><img src="https://img.shields.io/badge/15%20/%2015-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Tries | <picture><img src="https://img.shields.io/badge/3%20/%203-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Backtracking | <picture><img src="https://img.shields.io/badge/8%20/%209-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Backtracking | <picture><img src="https://img.shields.io/badge/9%20/%209-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Heap / Priority Queue | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
 | Graphs | ![0 / 13](https://img.shields.io/badge/0%20/%2013-Solved-ffffff?style=flat&color=ffffff) |
 | 1-D DP | ![0 / 12](https://img.shields.io/badge/0%20/%2012-Solved-ffffff?style=flat&color=ffffff) |
@@ -165,4 +165,5 @@
   | [Word Search](https://neetcode.io/problems/search-for-word) | [C++](https://github.com/delcanovega/NeetCode/blob/main/09_Backtracking/06_Word_Search/main.cpp) |
   | [Palindrome Partitioning](https://neetcode.io/problems/palindrome-partitioning) | [C++](https://github.com/delcanovega/NeetCode/blob/main/09_Backtracking/07_Palindrome_Partitioning/main.cpp) |
   | [Letter Combinations of a Phone Number](https://neetcode.io/problems/combinations-of-a-phone-number) | [C++](https://github.com/delcanovega/NeetCode/blob/main/09_Backtracking/08_Letter_Combinations_of_a_Phone_Number/main.cpp) |
+  | [N-Queens](https://neetcode.io/problems/n-queens) | [C++](https://github.com/delcanovega/NeetCode/blob/main/09_Backtracking/09_N-Queens/main.cpp) |
 </details>
