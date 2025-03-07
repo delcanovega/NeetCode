@@ -12,7 +12,7 @@
 | Trees | <picture><img src="https://img.shields.io/badge/15%20/%2015-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Tries | <picture><img src="https://img.shields.io/badge/3%20/%203-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Backtracking | <picture><img src="https://img.shields.io/badge/9%20/%209-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Heap / Priority Queue | ![0 / 7](https://img.shields.io/badge/0%20/%207-Solved-ffffff?style=flat&color=ffffff) |
+| Heap / Priority Queue | <picture><img src="https://img.shields.io/badge/1%20/%207-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | Graphs | ![0 / 13](https://img.shields.io/badge/0%20/%2013-Solved-ffffff?style=flat&color=ffffff) |
 | 1-D DP | ![0 / 12](https://img.shields.io/badge/0%20/%2012-Solved-ffffff?style=flat&color=ffffff) |
 | Intervals | ![0 / 6](https://img.shields.io/badge/0%20/%206-Solved-ffffff?style=flat&color=ffffff) |
@@ -166,4 +166,13 @@
   | [Palindrome Partitioning](https://neetcode.io/problems/palindrome-partitioning) | [C++](https://github.com/delcanovega/NeetCode/blob/main/09_Backtracking/07_Palindrome_Partitioning/main.cpp) |
   | [Letter Combinations of a Phone Number](https://neetcode.io/problems/combinations-of-a-phone-number) | [C++](https://github.com/delcanovega/NeetCode/blob/main/09_Backtracking/08_Letter_Combinations_of_a_Phone_Number/main.cpp) |
   | [N-Queens](https://neetcode.io/problems/n-queens) | [C++](https://github.com/delcanovega/NeetCode/blob/main/09_Backtracking/09_N-Queens/main.cpp) |
+</details>
+
+### Heap / Priority Queue
+<details>
+  <summary>Expand</summary>
+  
+  | Problem | Solution |
+  |:--------|:--------:|
+  | [Kth Largest Element in a Stream](https://neetcode.io/problems/kth-largest-integer-in-a-stream) | [C++](https://github.com/delcanovega/NeetCode/blob/main/10_Heaps/01_Kth_Largest_Element_in_a_Stream/main.cpp) |
 </details>
