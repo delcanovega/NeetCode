@@ -12,7 +12,7 @@
 | Trees | <picture><img src="https://img.shields.io/badge/15%20/%2015-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Tries | <picture><img src="https://img.shields.io/badge/3%20/%203-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Backtracking | <picture><img src="https://img.shields.io/badge/9%20/%209-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Heap / Priority Queue | <picture><img src="https://img.shields.io/badge/6%20/%207-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Heap / Priority Queue | <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Graphs | ![0 / 13](https://img.shields.io/badge/0%20/%2013-Solved-ffffff?style=flat&color=ffffff) |
 | 1-D DP | ![0 / 12](https://img.shields.io/badge/0%20/%2012-Solved-ffffff?style=flat&color=ffffff) |
 | Intervals | ![0 / 6](https://img.shields.io/badge/0%20/%206-Solved-ffffff?style=flat&color=ffffff) |
@@ -180,4 +180,5 @@
   | [Kth Largest Element in an Array](https://neetcode.io/problems/kth-largest-element-in-an-array) | [C++](https://github.com/delcanovega/NeetCode/blob/main/10_Heaps/04_Kth_Largest_Element_in_an_Array/main.cpp) |
   | [Task Scheduler](https://neetcode.io/problems/task-scheduling) | [C++](https://github.com/delcanovega/NeetCode/blob/main/10_Heaps/05_Task_Scheduler/main.cpp) |
   | [Design Twitter](https://neetcode.io/problems/design-twitter-feed) | [C++](https://github.com/delcanovega/NeetCode/blob/main/10_Heaps/06_Design_Twitter/main.cpp) |
+  | [Find Median From Data Stream](https://neetcode.io/problems/dfind-median-in-a-data-stream) | [C++](https://github.com/delcanovega/NeetCode/blob/main/10_Heaps/07_Find_Median_From_Data_Stream/main.cpp) |
 </details>
