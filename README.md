@@ -13,7 +13,7 @@
 | Tries | <picture><img src="https://img.shields.io/badge/3%20/%203-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Backtracking | <picture><img src="https://img.shields.io/badge/9%20/%209-Solved-ffffff?style=flat&color=1f883d"></picture> |
 | Heap / Priority Queue | <picture><img src="https://img.shields.io/badge/7%20/%207-Solved-ffffff?style=flat&color=1f883d"></picture> |
-| Graphs | <picture><img src="https://img.shields.io/badge/2%20/%2013-Solved-ffffff?style=flat&color=ffffff"></picture> |
+| Graphs | <picture><img src="https://img.shields.io/badge/3%20/%2013-Solved-ffffff?style=flat&color=ffffff"></picture> |
 | 1-D DP | ![0 / 12](https://img.shields.io/badge/0%20/%2012-Solved-ffffff?style=flat&color=ffffff) |
 | Intervals | ![0 / 6](https://img.shields.io/badge/0%20/%206-Solved-ffffff?style=flat&color=ffffff) |
 | Greedy | ![0 / 8](https://img.shields.io/badge/0%20/%208-Solved-ffffff?style=flat&color=ffffff) |
@@ -191,4 +191,5 @@
   |:--------|:--------:|
   | [Number of Islands](https://neetcode.io/problems/count-number-of-islands) | [C++](https://github.com/delcanovega/NeetCode/blob/main/11_Graphs/01_Number_of_Islands/main.cpp) |
   | [Max Area of Island](https://neetcode.io/problems/count-number-of-islands) | [C++](https://github.com/delcanovega/NeetCode/blob/main/11_Graphs/02_Max_Area_of_Island/main.cpp) |
+  | [Clone Graph](https://neetcode.io/problems/clone-graph) | [C++](https://github.com/delcanovega/NeetCode/blob/main/11_Graphs/03_Clone_Graph/main.cpp) |
 </details>
